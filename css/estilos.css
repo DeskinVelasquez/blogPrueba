@@ -9,7 +9,7 @@ body {
 
 #cabecera 
 {
-    background: blueviolet;
+    background: url("../imagenes/doom.jpg") 10px 10px;
     color: aliceblue;
     margin: 0;
     padding: 0.5em;
