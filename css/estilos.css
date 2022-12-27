@@ -45,3 +45,17 @@ body {
     padding: 1em;
 
 }
+
+#footer
+{
+    padding: 5px;
+    background-color: blue;
+    font-size: 1cm;
+    position: relative;
+    margin: 1px;
+    border: yellow;
+    box-shadow: tomato;
+    color: #ddd;
+    position: sticky;
+    text-emphasis-position: unset;
+}
